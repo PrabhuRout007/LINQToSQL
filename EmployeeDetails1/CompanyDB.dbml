@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="balu.CompanyDB" Class="CompanyDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-EVBLF3O\SQLEXPRESS;Initial Catalog=balu.CompanyDB;Integrated Security=True" SettingsObjectName="EmployeeDetails1.Properties.Settings" SettingsPropertyName="balu_CompanyDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Employee" Member="Employees">
+    <Type Name="Employee">
+      <Column Name="Eno" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Ename" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Job" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Salary" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Dname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

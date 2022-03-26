@@ -1,0 +1,10 @@
+C:\Users\desktop\source\repos\EmployeeDetails1\EmployeeDetails1\bin\Debug\EmployeeDetails1.exe.config
+C:\Users\desktop\source\repos\EmployeeDetails1\EmployeeDetails1\bin\Debug\EmployeeDetails1.exe
+C:\Users\desktop\source\repos\EmployeeDetails1\EmployeeDetails1\bin\Debug\EmployeeDetails1.pdb
+C:\Users\desktop\source\repos\EmployeeDetails1\EmployeeDetails1\obj\Debug\EmployeeDetails1.csprojAssemblyReference.cache
+C:\Users\desktop\source\repos\EmployeeDetails1\EmployeeDetails1\obj\Debug\EmployeeDetails1.Form1.resources
+C:\Users\desktop\source\repos\EmployeeDetails1\EmployeeDetails1\obj\Debug\EmployeeDetails1.Properties.Resources.resources
+C:\Users\desktop\source\repos\EmployeeDetails1\EmployeeDetails1\obj\Debug\EmployeeDetails1.csproj.GenerateResource.cache
+C:\Users\desktop\source\repos\EmployeeDetails1\EmployeeDetails1\obj\Debug\EmployeeDetails1.csproj.CoreCompileInputs.cache
+C:\Users\desktop\source\repos\EmployeeDetails1\EmployeeDetails1\obj\Debug\EmployeeDetails1.exe
+C:\Users\desktop\source\repos\EmployeeDetails1\EmployeeDetails1\obj\Debug\EmployeeDetails1.pdb

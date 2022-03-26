@@ -1,0 +1,12 @@
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\bin\Debug\CrudOperation.exe.config
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\bin\Debug\CrudOperation.exe
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\bin\Debug\CrudOperation.pdb
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\obj\Debug\CrudOperation.Form1.resources
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\obj\Debug\CrudOperation.Form2.resources
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\obj\Debug\CrudOperation.Properties.Resources.resources
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\obj\Debug\CrudOperation.csproj.GenerateResource.cache
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\obj\Debug\CrudOperation.csproj.CoreCompileInputs.cache
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\obj\Debug\CrudOperation.exe
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\obj\Debug\CrudOperation.pdb
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\obj\Debug\CrudOperation.Form3.resources
+C:\Users\desktop\source\repos\EmployeeDetails1\CrudOperation\obj\Debug\CrudOperation.csprojAssemblyReference.cache
